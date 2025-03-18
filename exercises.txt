@@ -1,0 +1,9 @@
+#exercise 1
+$ git init BIT04_recap_exercises
+$ echo "# BIT04_recap_exercises" >> README.md
+$ git add README.md
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin git@github.com:BenNevenHowest/BIT04_recap_exercises.git
+$ git push -u origin main
+ 
